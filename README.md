@@ -17,6 +17,11 @@ Eu creio que todos os projectos que temos feito na 42 LUANDA serve ou servirá p
 
 **O LVM (Logical Volume Manager):** é como uma caixa de ferramentas para administrar o espaço de armazenamento do seu computador. Em vez de lidar diretamente com discos rígidos ou partições, você trabalha com "volumes lógicos" que o LVM cria a partir desses discos.
 
+**Cron - Execução de Tarefas Automatizadas**
+Cron é um utilitário de sistema em sistemas operacionais baseados em Unix, como Linux e macOS. Ele é usado para agendar tarefas para serem executadas automaticamente em intervalos específicos de tempo. Essas tarefas podem incluir scripts de shell, programas ou comandos específicos.
+
+O cron é controlado pelo arquivo crontab, que contém a lista de tarefas agendadas, seus horários de execução e os comandos que devem ser executados. Os usuários podem adicionar, modificar ou remover tarefas no crontab usando comandos específicos, geralmente acessíveis com o comando crontab.
+
 - Diferença entre ***aptitude*** e ***apt:***
 Enquanto o "apt" é uma ferramenta mais simples e direta para operações de gerenciamento de pacotes, o "aptitude" oferece recursos mais avançados e uma interface de usuário interativa para usuários que precisam de funcionalidades mais complexas.
 <br>
